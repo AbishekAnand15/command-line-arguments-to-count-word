@@ -29,8 +29,8 @@ with open(sys.argv[1],'r') as f1:
         count += len(word)
 print("word count in file = ",count)
 ```
-### OUTPUT:
-![Output](output1.png)
+## OUTPUT:
+![Output](output.png)
 
 
 ## RESULT:
